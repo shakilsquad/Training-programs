@@ -1,0 +1,299 @@
+[
+    {
+        "id": 0,
+        "category_id": 1,
+        "category_name": "web",
+        "course_name": "Design",
+        "price": 12000,
+        "title": " Html , CSS, Wordpress, Design",
+        "description": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design (UI design); authoring, including standardized code and proprietary software; user experience design (UX design); and search engine optimization. Often many individuals will work in teams covering different aspects of the design process",
+        "thumbnail_img": "https://i.ibb.co/dLc3k64/pexels-pixabay-39284.jpg",
+        "module": [
+            "15"
+        ],
+        "project": [
+            {
+                "name": "BodyFix Gym",
+                "img": "https://i.ibb.co/K0ZpJN5/gym.png"
+            },
+            {
+                "name": "Coffee Shop ",
+                "img": "https://i.ibb.co/D14QFLc/pexels-tranmautritam-326503.jpg"
+            },
+            {
+                "name": "E-commerce ",
+                "img": "https://i.ibb.co/Zz7N48w/pexels-monoar-rahman-114907.jpg"
+            },
+            {
+                "name": "Ride Sharing ",
+                "img": "https://i.ibb.co/vVpZq26/rideshare-apps.webp"
+            }
+        ],
+        "assignment": [
+            "8"
+        ],
+        "Que": [
+            "18"
+        ]
+    },
+    {
+        "id": 1,
+        "category_id": 2,
+        "category_name": "Development",
+        "course_name": "App Development",
+        "price": 13000,
+        "title": " Java , Coolant, App Development",
+        "description": "Mobile application development is the process of making software for smartphones, tablets and digital assistants, most commonly for the Android and iOS ...Mobile application development is the process of making software for smartphones, tablets and digital assistants, most commonly for the Android ",
+        "thumbnail_img": "https://i.ibb.co/QrS7tk5/main.png",
+        "module": [
+            "30"
+        ],
+        "project": [
+            {
+                "name": "kotlin app development",
+                "img": "https://i.ibb.co/3Bk6z2s/kot.png"
+            },
+            {
+                "name": "java app development",
+                "img": "https://i.ibb.co/G5zWKD0/java.png"
+            },
+            {
+                "name": "python app development",
+                "img": "https://i.ibb.co/C9djG8f/payt.jpg"
+            },
+            {
+                "name": "Android App Development",
+                "img": "https://i.ibb.co/hfqfPQW/pexels-thisisengineering-3912958.jpg"
+            }
+        ],
+        "assignment": [
+            "19"
+        ],
+        "Que": [
+            "50"
+        ]
+    },
+    {
+        "id": 2,
+        "category_id": 3,
+        "category_name": "Coding",
+        "course_name": "C++",
+        "price": 15000,
+        "title": " C++ Programming – Detailed Course Outline",
+        "description": "C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights.[15] C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications,[15] including desktop applications, video games, servers (e.g. e-commerce, web search, or databases), and performance-critical applications (e.g. telephone switches or space probes).[16]",
+        "thumbnail_img": "https://i.ibb.co/B2XWR5z/download.png",
+        "module": [
+            "50"
+        ],
+        "project": [
+            {
+                "name": "Learn C++",
+                "img": "https://i.ibb.co/phMbdxf/download.jpg"
+            },
+            {
+                "name": "C++ For Programmers",
+                "img": "https://i.ibb.co/1rjVqxj/download-1.png"
+            },
+            {
+                "name": "C++ Tutorial for Complete Beginners",
+                "img": "https://i.ibb.co/B2XWR5z/download.png"
+            },
+            {
+                "name": "C++ Programming - The Complete Course",
+                "img": "https://i.ibb.co/CsRS4Z7/c.jpg"
+            }
+        ],
+        "assignment": [
+            "30"
+        ],
+        "Que": [
+            "50"
+        ]
+    },
+    {
+        "id": 3,
+        "category_id": 4,
+        "category_name": "Video Editing",
+        "course_name": "Youtube Video Editing",
+        "price": 17000,
+        "title": " Youtube Crash Course Video Editing",
+        "description": "Use video editing tools like trim, cut, and splice to polish your video clips. Add text and photo effects, transitions, and animations. Fine-tune the intro and outdo clips, as well as the audio track. Download the watermark-free MP4 file, publish your video clip on YouTube, or share online.",
+        "thumbnail_img": "https://i.ibb.co/f4vT7GC/dddddd.jpg",
+        "module": [
+            "6"
+        ],
+        "project": [
+            {
+                "name": "Motion Graphics",
+                "img": "https://i.ibb.co/7KtvCLm/Enterprise-Risks-Video-Producton-Illustration-Equipment.png"
+            },
+            {
+                "name": "Video RapCut",
+                "img": "https://i.ibb.co/qFY091Y/videoediting-featured-1.webp"
+            },
+            {
+                "name": "After Effect",
+                "img": "https://i.ibb.co/f4vT7GC/dddddd.jpg"
+            },
+            {
+                "name": "Adobe PremerPro",
+                "img": "https://i.ibb.co/7WGyNz8/premer.jpg"
+            }
+        ],
+        "assignment": [
+            "8"
+        ],
+        "Que": [
+            "10"
+        ]
+    },
+    {
+        "id": 4,
+        "category_id": 5,
+        "category_name": "Wordpress",
+        "course_name": "Wordpress Design ",
+        "price": 11000,
+        "title": " Bike BD Site Wordpress Design ",
+        "description": "WordPress (also known as WP or WordPress.org) is a web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, membership sites, learning management systems and online stores. Available as free and open-source software, WordPress is among the most popular content management systems – it was used by 42.8% of the top 10 million websites as of October 2021.[4][5]",
+        "thumbnail_img": "https://i.ibb.co/7ggttdZ/how-to-get-started-with-wordpress-fpyk.jpg",
+        "module": [
+            "12"
+        ],
+        "project": [
+            {
+                "name": "Bike Hut",
+                "img": "https://i.ibb.co/N9SmwTj/bike1.jpg"
+            },
+            {
+                "name": "Bike Point",
+                "img": "https://i.ibb.co/d6D1B1m/bike2.jpg"
+            },
+            {
+                "name": "Bike Zone",
+                "img": "https://i.ibb.co/72f2SVG/cike.jpg"
+            },
+            {
+                "name": "Bike Point",
+                "img": "https://i.ibb.co/MgSqTqt/6.jpg"
+            }
+        ],
+        "assignment": [
+            "14"
+        ],
+        "Que": [
+            "13"
+        ]
+    },
+    {
+        "id": 5,
+        "category_id": 6,
+        "category_name": "Full Stack Developer",
+        "course_name": "Full Stack Developer ",
+        "price": 11000,
+        "title": " Full Stack Developer App , Web , Game  ",
+        "description": "Full stack developers work on building the front end and back end of a website or a web application. Like software developers, they also work on software associated with the web stack developers work on building the front end and back end of a website or a web application. Like software developers, they also work on software associated with the web application.",
+        "thumbnail_img": "https://i.ibb.co/vZ3kCkJ/full-stack-developer.webp",
+        "module": [
+            "46"
+        ],
+        "project": [
+            {
+                "name": "Emarat Air line ",
+                "img": "https://i.ibb.co/k3XLVdm/air.jpg"
+            },
+            {
+                "name": "Education App",
+                "img": "https://i.ibb.co/gv772BM/edddddd.jpg"
+            },
+            {
+                "name": "Travel BD",
+                "img": "https://i.ibb.co/4TGH893/travel.jpg"
+            },
+            {
+                "name": "Cricket Website",
+                "img": "https://i.ibb.co/nwFg255/cric.jpg"
+            }
+        ],
+        "assignment": [
+            "38"
+        ],
+        "Que": [
+            "65"
+        ]
+    },
+    {
+        "id": 6,
+        "category_id": 7,
+        "category_name": "Software Development",
+        "course_name": "Full Software Developer ",
+        "price": 11000,
+        "title": " Full Stack Developer Software Development  ",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software. Software itself is the set of instructions or programs that tell a computer what to do.",
+        "thumbnail_img": "https://i.ibb.co/Ks8V53m/download.jpg",
+        "module": [
+            "75"
+        ],
+        "project": [
+            {
+                "name": "Calculator",
+                "img": "https://i.ibb.co/b7NSX2B/cal.jpg"
+            },
+            {
+                "name": "Google map",
+                "img": "https://i.ibb.co/KwXkM4b/google-m-aop.jpg"
+            },
+            {
+                "name": "PhotoShp",
+                "img": "https://i.ibb.co/PgH9CY2/ps.jpg"
+            }
+            ,
+            {
+                "name": "Adobe After Effect",
+                "img": "https://i.ibb.co/80gZcR3/after.jpg"
+            }
+        ],
+        "assignment": [
+            "80"
+        ],
+        "Que": [
+            "85"
+        ]
+    },
+    {
+        "id": 7,
+        "category_id": 8,
+        "category_name": "python programming",
+        "course_name": "python programming",
+        "price": 91000,
+        "title": " python programming Crash Course  ",
+        "description": "Guido van Ross began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[34] Python 2.0 was released in 2000. Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2.7.18, released in 2020, was the last release of Python 2.[35] Python consistently ranks as one of the most popular programming",
+        "thumbnail_img": "https://i.ibb.co/f0gmGhN/py.png",
+        "module": [
+            "150"
+        ],
+        "project": [
+            {
+                "name": "Robot website",
+                "img": "https://i.ibb.co/02kxRPZ/robot.jpg"
+            },
+            {
+                "name": " Music Player ",
+                "img": "https://i.ibb.co/k98XnSg/music.jpg"
+            },
+            {
+                "name": "System Architecture",
+                "img": " https://i.ibb.co/s6c9Vqx/syst.jpg"
+            },
+            {
+                "name": "Dark Game Site",
+                "img": "https://i.ibb.co/PMgw9wm/python-game.jpg"
+            }
+        ],
+        "assignment": [
+            "80"
+        ],
+        "Que": [
+            "120"
+        ]
+    }
+]

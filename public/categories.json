@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "name": "Design"
+    },
+    {
+        "id": "1",
+        "name": "Development"
+    },
+    {
+        "id": "2",
+        "name": "Coding"
+    },
+    {
+        "id": "3",
+        "name": "Video Editing"
+    },
+    {
+        "id": "4",
+        "name": "Wordpress"
+    },
+    {
+        "id": "5",
+        "name": "Full Stack Developer"
+    },
+    {
+        "id": "6",
+        "name": "Software Development "
+    },
+    {
+        "id": "7",
+        "name": "Python Programming"
+    }
+]
