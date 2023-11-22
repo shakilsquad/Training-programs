@@ -21,9 +21,9 @@ const Home = () => {
             <Navbar></Navbar>
             <Banner></Banner>
             <div className='container mx-auto'>
-                <div className=''>
+                <div className='py-6'>
                     <h1 className='text-center py-1 md:py-9 md:text-5xl font-bold '>service section </h1>
-                    <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-6'>
+                    <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-2 '>
                         {
                            course.map( courses => <CourseCart key={course.id} courses={courses} ></CourseCart>)
                         }
